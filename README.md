@@ -27,10 +27,10 @@ The Bio-Intelligent Cyborg Insect (BCI), Insect Synergy Circuit (ISC), and Perce
 
 ## Viewing the Atlas
 
-The atlas is a single self-contained HTML file. Open `insect_perception_atlas.html` in any modern browser (Chrome, Firefox, Edge, Safari).
+The atlas is a single self-contained HTML file. Open `index.html` in any modern browser (Chrome, Firefox, Edge, Safari).
 
 A live version is hosted via GitHub Pages at:
-**https://[your-username].github.io/[your-repo-name]/insect_perception_atlas.html**
+**https://[masumrefat].github.io/[Perception-Driven-Control-Strategy-]/index.html**
 
 ## License
 
