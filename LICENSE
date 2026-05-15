@@ -1,0 +1,99 @@
+Copyright (c) 2026 Chowdhury Mohammad Masum Refat
+Morishima Lab, Department of Mechanical Engineering
+The University of Osaka, Suita, Japan
+
+All rights reserved.
+
+================================================================
+INSECT PERCEPTION — INTERACTIVE ATLAS
+================================================================
+
+This work, including all source code, diagrams, visualizations,
+text content, and interactive elements (collectively "the Work"),
+is the intellectual property of the copyright holder named above.
+
+The Work is made available for VIEWING AND ACADEMIC REFERENCE
+ONLY. By accessing this Work, you agree to the following terms:
+
+----------------------------------------------------------------
+1. PERMITTED USES
+----------------------------------------------------------------
+You MAY:
+  (a) View the rendered application in a web browser
+  (b) Cite this Work in academic publications, with proper
+      attribution to the author and the underlying research:
+        Refat et al. (2026). Perception-driven control strategy
+        for bio-intelligent cyborg insect. ROBOMECH Journal,
+        13:16. DOI: 10.1186/s40648-026-00344-7
+  (c) Reference this Work for educational and non-commercial
+      research purposes
+  (d) Link to this Work from other websites with attribution
+
+----------------------------------------------------------------
+2. PROHIBITED USES
+----------------------------------------------------------------
+You MAY NOT, without prior written permission from the author:
+  (a) Copy, reproduce, or duplicate the source code in whole
+      or in part
+  (b) Modify, adapt, or create derivative works based on the
+      Work
+  (c) Redistribute, host, or republish the Work on any other
+      server, domain, or platform
+  (d) Use the Work or any portion of it for commercial purposes
+  (e) Remove or alter any copyright notices, attribution, or
+      license terms
+  (f) Use the diagrams, visualizations, or interactive elements
+      in publications, presentations, or other media without
+      written permission and proper attribution
+  (g) Use this Work or any portion of it to train, fine-tune,
+      or develop machine learning models, including large
+      language models, without prior written permission
+
+----------------------------------------------------------------
+3. ACADEMIC ATTRIBUTION
+----------------------------------------------------------------
+If you use insights, methods, or concepts derived from this
+Work in academic publications, you must cite:
+  - The author of this interactive Work
+  - The underlying peer-reviewed research papers, including
+    but not limited to:
+      * Refat, Ariyanto, Tanaka, Yamamoto & Morishima (2025).
+        Bio-Intelligent Cyborg Insect. Advanced Intelligent
+        Systems. DOI: 10.1002/aisy.202400838
+      * Refat et al. (2026). Perception-driven control strategy
+        for bio-intelligent cyborg insect. ROBOMECH Journal,
+        13:16. DOI: 10.1186/s40648-026-00344-7
+
+----------------------------------------------------------------
+4. NO WARRANTY
+----------------------------------------------------------------
+The Work is provided "AS IS", without warranty of any kind,
+express or implied, including but not limited to the warranties
+of merchantability, fitness for a particular purpose and
+noninfringement. In no event shall the author or copyright
+holder be liable for any claim, damages or other liability,
+whether in an action of contract, tort or otherwise, arising
+from, out of or in connection with the Work or the use or
+other dealings in the Work.
+
+----------------------------------------------------------------
+5. CONTACT FOR PERMISSIONS
+----------------------------------------------------------------
+For permissions beyond the scope of this license, including
+commercial use, redistribution, or derivative works, please
+contact:
+
+  Chowdhury Mohammad Masum Refat
+  Morishima Lab, Department of Mechanical Engineering
+  The University of Osaka, Suita, Japan
+
+----------------------------------------------------------------
+6. ENFORCEMENT
+----------------------------------------------------------------
+Any unauthorized use of this Work may result in legal action.
+This license is governed by the laws of Japan. By using this
+Work, you agree to be bound by the terms of this license.
+
+================================================================
+End of License
+================================================================
